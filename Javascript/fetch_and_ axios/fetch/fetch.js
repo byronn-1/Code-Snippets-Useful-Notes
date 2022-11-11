@@ -4,3 +4,6 @@ fetch(`https://randomuser.me/api/?results=10`)
   .then((data) => {
     console.log(data.results);
   });
+
+
+  
